@@ -25,6 +25,14 @@ class Bio extends SoftwareDeveloper {
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<b>
+
+
+<samp>Contact me</samp></b>
+<br>
+
+[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-druetta-25a8a71b2)](https://www.linkedin.com/in/cristian-druetta-25a8a71b2)&nbsp; &nbsp;
+[![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristian.e.druetta@gmail.com)](mailto:cristian.e.druetta@gmail.com)
 
 
 
