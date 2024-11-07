@@ -7,12 +7,6 @@ class Bio extends SoftwareDeveloper {
   company  = 'GCsoft | Remote';
   location = 'Rio Cuarto, AR';
 }
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PYTHON'];
-  databases  = ['MySQL'];
-  frameworks = ['React', 'React Native', 'Bootstrap', 'Bulma'];
-}
 ```
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
