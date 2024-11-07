@@ -28,11 +28,12 @@ class Bio extends SoftwareDeveloper {
 <b>
 
 
-<samp>Contact me</samp></b>
+<b><samp>Contact me</samp></b>
 <br>
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-druetta-25a8a71b2)](https://www.linkedin.com/in/cristian-druetta-25a8a71b2)&nbsp; &nbsp;
-[![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristian.e.druetta@gmail.com)](mailto:cristian.e.druetta@gmail.com)
+[![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:cristian.e.druetta@gmail.com)
+
 
 
 
