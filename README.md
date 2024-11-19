@@ -26,7 +26,7 @@ class Bio extends SoftwareDeveloper {
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <b>
-<b>
+
 
 
 <h3><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px></picture>   <h3>Operating Systems <h3>
@@ -39,7 +39,7 @@ class Bio extends SoftwareDeveloper {
 
 
 
-<h3><samp>Contact me</samp></h3>
+<h3>Contact me</h3>
 <br>
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-druetta-25a8a71b2)](https://www.linkedin.com/in/cristian-druetta-25a8a71b2)&nbsp; &nbsp;
