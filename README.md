@@ -30,17 +30,16 @@ class Bio extends SoftwareDeveloper {
 
 
 <h3><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px></picture>   <h3>Operating Systems <h3>
-
-  &nbsp;
+ &nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-   &nbsp;
+&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &nbsp;
+&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 
 
 
-<b><samp>Contact me</samp></b>
+<h3><samp>Contact me</samp></h3>
 <br>
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-druetta-25a8a71b2)](https://www.linkedin.com/in/cristian-druetta-25a8a71b2)&nbsp; &nbsp;
