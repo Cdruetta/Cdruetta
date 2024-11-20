@@ -56,7 +56,8 @@ class Bio extends SoftwareDeveloper {
 	
 
 
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 <div align="center">
 
   <table width="100%" border="0" cellpadding="0" cellspacing="0">
